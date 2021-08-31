@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/olive-cash/olive-swap-sdk",
   "keywords": [
-    "pancakeswap",
+    "olivecash",
     "avalanche"
   ],
   "module": "dist/sdk.esm.js",
