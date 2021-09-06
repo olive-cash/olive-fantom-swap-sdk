@@ -73,8 +73,8 @@ export const WETH = {
     'WFTM',
     'Wrapped Fantom'
   ),
-  [ChainId.BSCTESTNET]: new Token(
-    ChainId.BSCTESTNET,
+  [ChainId.TESTNET]: new Token(
+    ChainId.TESTNET,
     '0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83',
     18,
     'WFTM',
