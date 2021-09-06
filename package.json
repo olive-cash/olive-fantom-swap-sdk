@@ -1,17 +1,17 @@
 {
-  "name": "@olive-dev/avax-sdk",
+  "name": "@olive-dev/fantom-sdk",
   "license": "MIT",
-  "version": "1.0.5",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of OliveSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/olive-cash/olive-swap-sdk",
+  "repository": "https://github.com/olive-cash/olive-fantom-swap-sdk",
   "keywords": [
     "olivecash",
-    "avalanche"
+    "fantom"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
